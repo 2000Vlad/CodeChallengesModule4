@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodeChallengesModule4</string>
+    <string name="background_url">https://cdn.homedit.com/wp-content/uploads/2011/11/outdoor_christmas_decoration_.jpg</string>
+    <string name="foreground_url">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaMvrlTzfA4Tz3qaZwzPAKTPiasuyHjpJfjKVfh5DqA09Vbpgp</string>
+    <string name="merry_christmas">Have yourself a merry little Christmas,\nLet your heart be light\nFrom now on, our problems are out of sight</string>
+    <string name="title">Beauty and the\nBeast</string>
+    <string name="tomatoPercent">71%</string>
+    <string name="description" >The story and characters you know and love come to spectacular life in the live-action adaption of Disney\'s animated classic Beauty and the Beast</string>
+    <string name="rating_0">242 ratings</string>
+    <string name="rank_0">4.5</string>
+</resources>
